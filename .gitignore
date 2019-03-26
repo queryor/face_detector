@@ -6,5 +6,5 @@ eval_tools/sfd_val/
 data/train.txt
 data/val.txt
 img/
-tmp/
+tmp/*.jpg
 data/*.txt
